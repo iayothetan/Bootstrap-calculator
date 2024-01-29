@@ -4,7 +4,7 @@ Bootstrap is a statistical method used to estimate the properties of parameters 
 
 The method is based on the idea of reusing existing data to generate a large number of pseudo-samples:
 
-1.A large number of new samples of a given size are created from the original sample. Each sample is formed by randomly drawing elements from the original sample with replacement.
+1. A large number of new samples of a given size are created from the original sample. Each sample is formed by randomly drawing elements from the original sample with replacement.
 2. For each pseudo-sample, the statistic of interest (e.g., mean value or variance) is calculated. This produces a distribution of statistics, which we then use as needed.
 
 ---
